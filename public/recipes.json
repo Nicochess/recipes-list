@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Burger",
+    "difficulty": "medium",
+    "position": 5,
+    "imageUrl": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Cheese Burger",
+    "difficulty": "easy",
+    "position": 3,
+    "imageUrl": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bacon Burger",
+    "difficulty": "hard",
+    "position": 7,
+    "imageUrl": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg"
+  },
+  {
+    "id": 4,
+    "name": "BBQ Burger",
+    "difficulty": "medium",
+    "position": 1,
+    "imageUrl": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mushroom Swiss Burger",
+    "difficulty": "medium",
+    "position": 6,
+    "imageUrl": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Spicy Jalapeno Burger",
+    "difficulty": "hard",
+    "position": 2,
+    "imageUrl": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Veggie Burger",
+    "difficulty": "easy",
+    "position": 8,
+    "imageUrl": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Blue Cheese Burger",
+    "difficulty": "hard",
+    "position": 4,
+    "imageUrl": "https://ddg0cip9uom1w.cloudfront.net/code-challenge/burger.jpg"
+  }
+]
