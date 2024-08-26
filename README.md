@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/9f88d235-9882-4d07-9350-7ba2f288f099)
+![Slide 16_9 - 1 (1)](https://github.com/user-attachments/assets/d273e752-4337-4227-ae30-2e9245c909b8)
+
+
 <div align="center">
   <em>You can access and check out the project now at <a href="https://recipes-list-three.vercel.app/" target="_blank">https://recipes-list-three.vercel.app/</a></em>
 </div>
