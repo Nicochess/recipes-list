@@ -2,7 +2,7 @@
 <div align="center">
   <em>You can access and check out the project now at <a href="https://recipes-list-three.vercel.app/" target="_blank">https://recipes-list-three.vercel.app/</a></em>
 </div>
-<h2 align="center">Technologies used in this project</h2>
+<br />
 <div align="center">
   <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
